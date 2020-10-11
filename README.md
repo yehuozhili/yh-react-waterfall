@@ -1,6 +1,10 @@
 ## yh-react-waterfall 瀑布流布局
 
+![build](https://github.com/yehuozhili/yh-react-waterfall/workflows/build/badge.svg?branch=main)
+
 轻松实现瀑布流布局
+
+demo : https://yehuozhili.github.io/yh-react-waterfall/
 
 ### 简介
 
