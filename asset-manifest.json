@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/yh-react-waterfall/static/js/main.a7b5c465.chunk.js",
+    "main.js.map": "/yh-react-waterfall/static/js/main.a7b5c465.chunk.js.map",
+    "runtime-main.js": "/yh-react-waterfall/static/js/runtime-main.48ed0f3c.js",
+    "runtime-main.js.map": "/yh-react-waterfall/static/js/runtime-main.48ed0f3c.js.map",
+    "static/js/2.00959d45.chunk.js": "/yh-react-waterfall/static/js/2.00959d45.chunk.js",
+    "static/js/2.00959d45.chunk.js.map": "/yh-react-waterfall/static/js/2.00959d45.chunk.js.map",
+    "index.html": "/yh-react-waterfall/index.html",
+    "precache-manifest.ae9e637b0e130eb90ee8892b346ecc30.js": "/yh-react-waterfall/precache-manifest.ae9e637b0e130eb90ee8892b346ecc30.js",
+    "service-worker.js": "/yh-react-waterfall/service-worker.js",
+    "static/js/2.00959d45.chunk.js.LICENSE.txt": "/yh-react-waterfall/static/js/2.00959d45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ed0f3c.js",
+    "static/js/2.00959d45.chunk.js",
+    "static/js/main.a7b5c465.chunk.js"
+  ]
+}
